@@ -1,4 +1,7 @@
 // Write your code here!
+
+
+
 const mainElement = document.querySelector('main#main');
 
 // Removing the element 
@@ -12,3 +15,4 @@ newHeader.id = "victory";
 //the 'newHeader' variable that points to the <h1> node with an id of 
 // 'victory' has the text "YOUR-NAME is the champion"
 newHeader.textContent = "Pauline is the champion"; 
+
